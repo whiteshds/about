@@ -1,4 +1,4 @@
-# <img src="public/favicon.svg" alt="atom" height="24px"> whiteshds<span></span>.ml; [![Build Status](https://img.shields.io/circleci/build/gh/whiteshds/about?label=build)](https://app.circleci.com/pipelines/github/whiteshds/about) 
+# <img src="public/favicon.svg" alt="atom" height="24px"> whiteshds<span></span>.ml [![Build Status](https://img.shields.io/circleci/build/gh/whiteshds/about?label=build)](https://app.circleci.com/pipelines/github/whiteshds/about) 
 [部落格](https://whiteshds.ml) built with [React](https://reactjs.org/) and hosted with [Netlify](https://www.netlify.com/).
 
 
