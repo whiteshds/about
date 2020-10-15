@@ -2,28 +2,6 @@
 [部落格](https://whiteshds.ml) built with [React](https://reactjs.org/) and hosted with [Netlify](https://www.netlify.com/).
 
 
-<img float="left" height="370px" src="src/assets/desktop.png" alt="Website Preview" role="img" aria-label="Screenshot of the website"> <img align="right" height="370px" src="src/assets/mobile.png" alt="Website Preview" role="img" aria-label="Screenshot of the website">
-
-This website is designed to be simple and accessible. The dynamic particles make it both interactive and visually inviting. The website defaults to dark mode and can be toggled to light mode. Once toggled, the theme should persist between tabs, windows, and page reloads.
-
-## <img src="https://git.io/JUnUc" height="18px"> Open Source
-
-I made this website open source under the assumption that others would use the code to create their own websites. I only ask that this code be used with attribution as a significant amount of time has been spent writing and optimizing it. Please give proper credit by linking back to [whiteshds.ml](https://whiteshds.ml/). Thanks!
-
-<details>
-    <summary><b>Installation and Setup</b></summary>
-
-1. Clone this repository
-2. Install packages/dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Feel free to change anything like icons or particle colors
-
-**Building and Deployment**
-
-1. Create a production build of the website: `npm run build`
-2. Deployment: The [React/deployment](https://create-react-app.dev/docs/deployment/) docs detail how to deploy to `gh-pages`, Netlify, and many other services
-
-</details>
 
 ## <img src="https://git.io/JUnJT" height="18px"> Icons
 
