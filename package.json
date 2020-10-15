@@ -40,7 +40,7 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/whiteshds/about.git"
+        "url": "https://github.com/whiteshds/about.git"
     },
     "author": "whiteshs",
     "license": "MIT",
