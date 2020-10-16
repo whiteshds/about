@@ -5,7 +5,7 @@
 
 ## <img src="https://git.io/JUnJT" height="18px"> Icons
 
-Font Awesome icons
+颜色参考
 
 | Use        |                      Icon                      | Short-Code        |
 | ---------- | :--------------------------------------------: | ----------------- |
@@ -18,7 +18,7 @@ Font Awesome icons
 
 ## <img src="https://git.io/JUnT0" height="18px"> Color Reference
 
-Text and icons meet a color contrast ratio of 4.5:1 against the background of the website, conforming with [WCAG 2.1](https://www.w3.org/TR/WCAG21/) Section 1.4.3.
+文字和图标在网站背景下的色彩对比度为4.5：1，符合WCAG 2.1第1.4.3节的规定。
 
 | Name   |                          Color                           | Hex       |
 | ------ | :------------------------------------------------------: | --------- |
@@ -32,5 +32,4 @@ Text and icons meet a color contrast ratio of 4.5:1 against the background of th
 | Smoke  | ![#EEEEEE](https://via.placeholder.com/16/EEEEEE?text=+) | `#EEEEEE` |
 
 ---
-
-If you found this project useful, please consider giving it a <img src="https://git.io/JUn8T" height="14px">! If you have any questions or feedback, open an issue and I will get back to you :&#8203;)
+如果您发现此项目有用，请考虑给它一个<img src="https://git.io/JUn8T" height="14px">！如果您有任何问题或反馈，请提出一个问题，我会尽快与您联系。
