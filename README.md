@@ -5,7 +5,7 @@
 
 ## <img src="https://git.io/JUnJT" height="18px"> Icons
 
-颜色参考
+
 
 | Use        |                      Icon                      | Short-Code        |
 | ---------- | :--------------------------------------------: | ----------------- |
@@ -16,7 +16,7 @@
 | Resume     | <img src="https://git.io/JUZjI" height="20px"> | `fas file-alt`    |
 | Email      | <img src="https://git.io/JUZjt" height="20px"> | `fas paper-plane` |
 
-## <img src="https://git.io/JUnT0" height="18px"> Color Reference
+## <img src="https://git.io/JUnT0" height="18px"> 颜色参考
 
 文字和图标在网站背景下的色彩对比度为4.5：1，符合WCAG 2.1第1.4.3节的规定。
 
